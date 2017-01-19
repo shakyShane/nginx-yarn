@@ -1,0 +1,1 @@
+docker build -t shakyshane/nginx-yarn
